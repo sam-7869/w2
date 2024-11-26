@@ -1,3 +1,2 @@
-
 print("i am sam")
 
